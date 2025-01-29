@@ -3,11 +3,11 @@
 LinkFree is a personal link platform similar to Linktree, developed in PHP, CSS, and JavaScript, with a MySQL database.
 ## 🚀 Features
 
-    🔗 Users can create a profile with multiple links.
-    🎨 Customizable design with CSS.
-    🔒 Authentication system with registration and login.
-    🗄️ MySQL database to store profiles and links.
-    ⚡ Fast and optimized loading.
+* 🔗 Users can create a profile with multiple links.
+* 🎨 Customizable design with CSS.
+* 🔒 Authentication system with registration and login.
+* 🗄️ MySQL database to store profiles and links.
+* ⚡ Fast and optimized loading.
 
 
 
