@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Redirigir las URLs del tipo /username a profile.php
+RewriteRule ^([a-zA-Z0-9_-]+)$ profile.php?username=$1 [L,QSA]
