@@ -17,10 +17,10 @@ Clone the repository:
 
     git clone https://github.com/sitrayas/linkfree.git
 
-Import the linktree.sql file into your MySQL database.
-Configure the connection in config.php.
-Upload the files to your PHP and MySQL server.
-Open index.php in your browser.
+* Import the linktree.sql file into your MySQL database.
+* Configure the connection in config.php.
+* Upload the files to your PHP and MySQL server.
+* Open index.php in your browser.
 
  
 ## 💡 Contributions
